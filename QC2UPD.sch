@@ -450,4 +450,6 @@ Wire Wire Line
 	1400 1400 1700 1400
 Wire Wire Line
 	1700 1400 1700 1000
+Text Notes 8000 4400 0    60   ~ 0
+10k pullup on CC pin -> USB PD 3A current
 $EndSCHEMATC
