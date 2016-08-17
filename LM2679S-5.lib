@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LM2679S-5
+#
+DEF LM2679S-5 U 0 40 Y Y 1 L N
+F0 "U" -186 258 50 H V L CNN
+F1 "LM2679S-5" -230 -602 50 H V L CNN
+F2 "TO127P1435X457-8N" 0 0 50 H I L CNN
+DRAW
+P 2 0 0 16 -700 200 -700 -500 N
+P 2 0 0 16 -700 -500 700 -500 N
+P 2 0 0 16 700 -500 700 200 N
+P 2 0 0 16 700 200 -700 200 N
+X VIN 2 -900 0 200 R 40 40 0 0 I 
+X BOOST 3 -900 -100 200 R 40 40 0 0 P 
+X GND_2 4 -900 -200 200 R 40 40 0 0 P 
+X GND 8 -900 -300 200 R 40 40 0 0 P 
+X CURRENT_ADJ 5 900 -300 200 L 40 40 0 0 P 
+X FB 6 900 -200 200 L 40 40 0 0 P 
+X SOFTSTART 7 900 -100 200 L 40 40 0 0 P 
+X SW 1 900 0 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library

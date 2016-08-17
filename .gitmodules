@@ -1,0 +1,3 @@
+[submodule "usb-type-c.pretty"]
+	path = usb-type-c.pretty
+	url = https://github.com/manisteinn/usb-type-c.pretty.git
