@@ -1,4 +1,4 @@
-update=Thu 18 Aug 2016 00:54:17 KST
+update=Thu 18 Aug 2016 15:12:46 KST
 version=1
 last_client=kicad
 [pcbnew]
@@ -33,6 +33,8 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -68,5 +70,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=usb_type_c
 LibName31=LM2679S-5
-[general]
-version=1
+LibName32=ts4436
