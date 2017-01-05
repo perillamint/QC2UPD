@@ -1,7 +1,6 @@
-
-QC2UPD Documentation
-
 # Qualcomm® Quick Charge™ 2.0 to USB Power Delivery adapter
+
+QC2UPD Documentation Repository
 
 * [Documentation Help](001-DocumentationHelp.md)
 * [Build Environment](002-BuildEnvironment.md)
