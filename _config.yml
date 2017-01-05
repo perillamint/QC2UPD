@@ -1,3 +1,4 @@
-title: QC2UPD Documentation
+title: QC2UPD Docs
 description: QC2UPD is a OSHW project for unified fast charging.
+markdown: kramdown
 theme: minima
