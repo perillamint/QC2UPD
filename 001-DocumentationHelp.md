@@ -2,6 +2,8 @@
 
 QC2UPD Doc 001
 
+{:toc}
+
 ## Why documentized?
 
 Think of poorly documented software projects:
